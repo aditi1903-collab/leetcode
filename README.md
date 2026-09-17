@@ -45,10 +45,12 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
