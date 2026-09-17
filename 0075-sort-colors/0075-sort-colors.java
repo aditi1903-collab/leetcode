@@ -4,10 +4,10 @@ class Solution {
         int count0 = 0;
         int count1 = 0;
         int count2 = 0;
-         for (int num : nums) {
-            if (num == 0)
+         for (int num =0;num<nums.length;num++) {
+            if (nums[num] == 0)
                 count0++;
-            else if (num == 1)
+            else if (nums[num] == 1)
                 count1++;
             else
                 count2++;
