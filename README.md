@@ -47,6 +47,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0011-container-with-most-water](https://github.com/aditi1903-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aditi1903-collab/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditi1903-collab/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
