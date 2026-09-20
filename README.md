@@ -44,6 +44,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditi1903-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditi1903-collab/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
