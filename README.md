@@ -46,6 +46,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditi1903-collab/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditi1903-collab/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditi1903-collab/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
