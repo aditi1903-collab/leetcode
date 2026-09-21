@@ -9,6 +9,6 @@ class Solution {
                 c++;
             }
         }
-        return c;
+        return j+1;
     }
 }
