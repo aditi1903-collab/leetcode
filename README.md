@@ -48,6 +48,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0011-container-with-most-water](https://github.com/aditi1903-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aditi1903-collab/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditi1903-collab/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0011-container-with-most-water](https://github.com/aditi1903-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aditi1903-collab/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,4 +105,16 @@ I regularly update this repository as I solve new problems on LeetCode.
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aditi1903-collab/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditi1903-collab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
