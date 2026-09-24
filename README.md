@@ -132,4 +132,8 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/aditi1903-collab/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
