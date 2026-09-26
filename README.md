@@ -98,11 +98,13 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/aditi1903-collab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditi1903-collab/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/aditi1903-collab/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/aditi1903-collab/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -143,4 +145,8 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/aditi1903-collab/leetcode/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
