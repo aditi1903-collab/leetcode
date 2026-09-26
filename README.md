@@ -71,6 +71,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/aditi1903-collab/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -149,4 +150,5 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/aditi1903-collab/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
