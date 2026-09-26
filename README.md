@@ -58,6 +58,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0904-fruit-into-baskets](https://github.com/aditi1903-collab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditi1903-collab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/aditi1903-collab/leetcode/tree/master/1051-height-checker) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditi1903-collab/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aditi1903-collab/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditi1903-collab/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -79,6 +80,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0018-4sum](https://github.com/aditi1903-collab/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/aditi1903-collab/leetcode/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -87,6 +89,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/aditi1903-collab/leetcode/tree/master/1051-height-checker) |
 ## Greedy
 |  |
 | ------- |
@@ -136,4 +139,8 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aditi1903-collab/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aditi1903-collab/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
