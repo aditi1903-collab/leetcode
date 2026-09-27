@@ -102,6 +102,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
+| [0771-jewels-and-stones](https://github.com/aditi1903-collab/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/aditi1903-collab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/aditi1903-collab/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditi1903-collab/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -157,4 +158,5 @@ I regularly update this repository as I solve new problems on LeetCode.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aditi1903-collab/leetcode/tree/master/0125-valid-palindrome) |
+| [0771-jewels-and-stones](https://github.com/aditi1903-collab/leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
