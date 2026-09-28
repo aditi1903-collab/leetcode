@@ -53,6 +53,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/aditi1903-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditi1903-collab/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/aditi1903-collab/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -84,6 +85,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0016-3sum-closest](https://github.com/aditi1903-collab/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditi1903-collab/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/aditi1903-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aditi1903-collab/leetcode/tree/master/1051-height-checker) |
 ## Quicksort
@@ -104,6 +106,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/aditi1903-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/aditi1903-collab/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/aditi1903-collab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/aditi1903-collab/leetcode/tree/master/1748-sum-of-unique-elements) |
