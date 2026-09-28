@@ -3,19 +3,17 @@ class Solution {
         if(k<=1){
             return 0;
         }
-        int left=0;
-        int count=0;
-        int pro=1;
-        for(int right=0;right<nums.length;right++){
-            pro=pro*nums[right];
-            while(pro>=k){
-                pro=pro/nums[left];
-                left++;
-            }
-            count+=right-left+1;
-
+       int p=1;
+       int l=0;
+       int c=0;
+       for(int i=0;i<nums.length;i++){
+        p=p*nums[i];
+        while(p>=k){
+            p=p/nums[l];
+            l++;
         }
-        return count;
-
+c+=i-l+1;
+       }
+return c;
     }
 }
