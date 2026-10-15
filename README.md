@@ -78,6 +78,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | [0042-trapping-rain-water](https://github.com/aditi1903-collab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditi1903-collab/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditi1903-collab/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/aditi1903-collab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/aditi1903-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditi1903-collab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -107,6 +108,7 @@ I regularly update this repository as I solve new problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/aditi1903-collab/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/aditi1903-collab/leetcode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/aditi1903-collab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/aditi1903-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/aditi1903-collab/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/aditi1903-collab/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -182,4 +184,12 @@ I regularly update this repository as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aditi1903-collab/leetcode/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aditi1903-collab/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aditi1903-collab/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
